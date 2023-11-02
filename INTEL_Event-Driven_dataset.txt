@@ -1,0 +1,50 @@
+When an Order is shipped and Order Terms are not
+“Prepaid”, the system shall create an Invoice.
+
+When an Order is shipped and Order Terms are not “Prepaid”,
+ the system shall create an Invoice.
+
+• When an Unregistered Device is plugged into a USB port,
+     the OS shall attempt to locate and load the driver for the
+     device.
+
+
+• When a DVD is inserted into the DVD player, the OS shall
+     spin up the optical drive.
+
+
+• When the water level falls below the Low Water
+     Threshold, the software shall open the water valve
+     to fill the tank to the High Water Threshold.
+
+
+• When the landing gear button is depressed once, if the
+     software detects that the landing gear does not lock into
+     position, then the software shall sound an alarm.
+
+• Where a second optical drive is installed, when the user
+     selects to copy disks, the software shall display an option
+     to copy directly from one optical drive to the other optical
+     drive.
+
+• While in start up mode, when the software detects an
+     external flash card, the software shall use the external
+     flash card to store photos.
+
+
+When the user selects the caller count from the menu, the
+software shall display a count of the number of participants
+in the audio call in the UI.
+
+
+• When the software detects the J7 jumper is shorted, it shall
+     clear all stored user names and passwords.
+
+    When more than 3 incorrect login attempts occur for a single user ID
+    within a 30 minute period, the software shall lock the account
+    associated with that user ID.
+
+
+        When using unattended installation with standard options, the
+        software shall install in under 3 minutes 80% of the time and
+        under 4 minutes 100% of the time.

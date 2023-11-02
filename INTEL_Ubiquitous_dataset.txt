@@ -1,0 +1,137 @@
+The software shall support a water level sensor.
+The thesaurus software shall display about five alternatives for the
+   requested word.
+The software shall blink the LED on the adapter using a 50% on, 50%
+   off duty cycle.
+If a boot disk is detected in the system, the software shall boot from it.
+     • The software shall be distributed on CD-ROM and DVD media.
+     • The software shall prevent Unauthorized Access to patient data.
+     • The software shall wake the PC from standby
+     • The software shall log the date, time and username of failed logins.
+
+                                                The SW shall display
+        The installer SW shall
+                                              a count of the number of
+        be available in Greek                      participants.
+
+
+
+        The SW shall phone the                   The SW shall mute
+           Alarm Company                          the microphone
+
+
+
+       The SW shall download
+          the book without                   The SW shall warn the
+               charge                          user of low battery
+
+The installer software shall be available in Greek.
+The software shall display a count of the number of participants.
+The software shall phone the Alarm Company.
+The software shall mute the microphone.
+The software shall download the book without charge.
+The software shall warn the user of low battery
+
+• The software package shall include an installer.
+
+• The software shall be written in Java.
+
+• The software shall be available for purchase on the
+     company web site and in retail stores.
+
+• If the measured and calculated speeds vary by more than
+     10%, then the software shall use the measured speed.
+
+• If the memory checksum is invalid, then the software shall
+     display an error message.
+
+• If the ATM card inserted is reported lost or stolen, then
+     software shall confiscate the card.
+
+• Where a thesaurus is part of the software package, the
+     installer shall prompt the user before installing the thesaurus.
+
+• Where hardware encryption is installed, the software shall
+     encrypt data using the hardware instead of using a software
+     algorithm.
+
+• Where a HDMI port is present, the software shall allow the
+     user to select HD content for viewing.
+
+
+• Where a second optical drive is installed, when the user
+     selects to copy disks, the software shall display an option
+     to copy directly from one optical drive to the other optical
+     drive.
+
+
+The installer software shall be available in Greek.
+The installer software shall be available in Greek.
+The software shall display a count of the number of
+ participants.
+
+The software shall phone the Alarm Company.
+
+If the alarm software detects that a sensor has
+malfunctioned, then the alarm software shall phone the
+Alarm Company to report the malfunction.
+
+The software shall mute the microphone.
+
+The software shall download the book without charge.
+
+Where the book is available in digital format, the software
+shall allow the user to download the book without charge for
+a trial period of 3 days.
+
+The software shall warn the user of low battery.
+
+• The software shall include an online help file.
+
+• If the software detects an invalid DRAM memory
+     configuration, then it shall abort the test and report the error.
+
+
+• Where both 3G and Wi-Fi radios are available, the software
+     shall prioritize Wi-Fi connections above 3G.
+
+     The 802.3 Ethernet frame shall be 2048 bytes or less.
+
+     The 802.3 Ethernet frame length shall be between 64 and 1518 bytes
+     inclusive.
+
+     The outstanding software written by the talented development team
+     shall display the current local time when selected by the intelligent
+     and educated user from the well designed menu.
+
+     The software shall display the current local time when selected by the
+     user from the menu.
+
+     The software shall allow an unlimited number of concurrent users.
+
+     The software shall allow a maximum of twenty concurrent users
+
+
+     The software shall be backwards compatible with all prior versions of
+     Windows®
+
+     The software shall be backwards compatible with Windows® Vista
+     SP2 and SP1, and Windows® XP SP3.
+
+          The manual shall be easy to find on the CD-ROM.
+
+          The manual shall be located in a folder named User Manual in the
+          root directory of the CD-ROM.
+
+         #1: The user shall only be allowed to enter whole numbers.
+         #2: The user shall be allowed to enter the time interval in seconds
+         and tenths of a second.
+
+         #1: The user shall only be allowed to enter whole numbers except
+         if the time interval is selected.
+         #2: The user shall be allowed to enter the time interval in seconds
+         and tenths of a second.
+
+     The software shall prompt the user for the PIN.
+
+The software shall prompt the user for the PIN.

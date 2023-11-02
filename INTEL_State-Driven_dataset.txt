@@ -1,0 +1,29 @@
+State-Driven Examples
+
+• While in Low Power Mode, the software shall keep the
+     display brightness at the Minimum Level.
+
+
+• While the heater is on, the software shall close the water
+     intake valve.
+
+
+• While the autopilot is engaged, the software shall display
+     a visual indication to the pilot.
+• While in start up mode, when the software detects an
+     external flash card, the software shall use the external
+     flash card to store photos.
+Rewritten using EARS:
+While the mute button is depressed, the software shall mute
+the microphone.
+Rewritten using EARS:
+While on battery power, if the battery charge falls below 10%
+remaining, then the system shall display a warning message
+to switch to AC power.
+• While in Manufacturing Mode, the software shall boot
+     without user intervention.
+      • Type: State-driven
+• While on DC power, if the software detects an error, then
+     the software shall cache the error message instead of
+     writing the error message to disk.
+       • Type: Complex
